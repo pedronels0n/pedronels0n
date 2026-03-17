@@ -6,7 +6,7 @@ I work with Linux infrastructure, monitoring, automation and system hardening us
 
 ---
 
-## 🔐 Areas of Expertise
+## 🔐 Expertise
 
 - Linux Server Administration
 - Security Hardening
@@ -64,9 +64,9 @@ Some of my infrastructure and monitoring labs:
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedronels0n&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedronels0n&layout=compact&theme=dark)
 
 ---
 
